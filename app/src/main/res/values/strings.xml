@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Dosimeter</string>
+    <string name="calibration_name">Calibration</string>
+    <string name="settings_name">Settings</string>
+
+    <string name="Leq">Lex8:</string>
+    <string name="SPL">SPL:</string>
+    <string name="peak">Peak:</string>
+    <string name="dB">dB</string>
+    <string name="dBA">dBA</string>
+    <string name="dBC">dBC</string>
+
+    <string name="init_failed">Initialization failed!</string>
+    <string name="invalid_value">Invalid value!</string>
+    <string name="record_denied">Record audio permission denied!</string>
+    <string name="storage_denied">Access storage denied!</string>
+    <string name="save_dir_fail">Saving directory could not be created!</string>
+    <string name="cal_dir_fail">Calibration directory could not be created!</string>
+    <string name="log_dir_fail">Log directory could not be created!</string>
+    <string name="mic_perm">Microphone is essential for capturing audio data.</string>
+    <string name="storage_perm">Storage access is needed to save calibration and log files.</string>
+    <string name="cal_save_success">Calibration file created successfully!</string>
+    <string name="cal_save_fail">Calibration file could not be created!</string>
+    <string name="cal_load_success">Calibration loaded successfully!</string>
+    <string name="cal_load_fail">Calibration could not be loaded!</string>
+
+    <string name="lex8_weighting">Lex8 weighing</string>
+    <string name="spl_curve">SPL weighting</string>
+    <string name="peak_curve">Peak weighting</string>
+    <string name="calibration_curve">Calibration weighting</string>
+    <string name="reset">Reset measurements</string>
+    <string name="measured">Measured value</string>
+    <string name="reference">Reference value</string>
+
+    <string name="get_value">GET VALUE</string>
+    <string name="next_point">SAVE VALUE</string>
+    <string name="save_cal">SAVE CAL</string>
+    <string name="load_cal">LOAD CAL</string>
+    <string name="apply">APPLY</string>
+    <string name="calibrate">CAL</string>
+    <string name="exit">EXIT</string>
+    <string name="back">BACK</string>
+
+    <string name="averaging_time">Averaging time</string>
+    <string name="one_s">1s</string>
+    <string name="two_s">2s</string>
+    <string name="five_s">5s</string>
+</resources>
